@@ -13,7 +13,7 @@
 #ifndef FT_PRINTF_H
 # define FT_PRINTF_H
 
-# include <stdarg.h> // va_list
+# include <stdarg.h>
 # include <unistd.h>
 # include <stdlib.h>
 
